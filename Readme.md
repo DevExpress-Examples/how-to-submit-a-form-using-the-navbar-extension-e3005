@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [MyModel.cs](./CS/Models/MyModel.cs) (VB: [MyModel.vb](./VB/Models/MyModel.vb))
+* [Index.aspx](./CS/Views/Home/Index.aspx) (VB: [Index.aspx](./VB/Views/Home/Index.aspx))
+<!-- default file list end -->
 # How to submit a form using the NavBar extension
 
 
