@@ -6,6 +6,9 @@
 * **[Index.cshtml](./CS/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # How to submit a form using the NavBar extension
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3005)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to submit Form values to the server and invoke different Controller Actions depending on which item was clicked in the NavBar extension.</p><p><strong>See also:</strong><br />
