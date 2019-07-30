@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to submit a form using the NavBar extension
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3005)**
+**[[Run Online]](https://codecentral.devexpress.com/e3005/)**
 <!-- run online end -->
 
 
